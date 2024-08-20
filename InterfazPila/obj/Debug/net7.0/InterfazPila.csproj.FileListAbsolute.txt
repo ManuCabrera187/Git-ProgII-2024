@@ -1,0 +1,15 @@
+C:\Users\Alumno\source\repos\InterfazPila\bin\Debug\net7.0\InterfazPila.exe
+C:\Users\Alumno\source\repos\InterfazPila\bin\Debug\net7.0\InterfazPila.deps.json
+C:\Users\Alumno\source\repos\InterfazPila\bin\Debug\net7.0\InterfazPila.runtimeconfig.json
+C:\Users\Alumno\source\repos\InterfazPila\bin\Debug\net7.0\InterfazPila.dll
+C:\Users\Alumno\source\repos\InterfazPila\bin\Debug\net7.0\InterfazPila.pdb
+C:\Users\Alumno\source\repos\InterfazPila\obj\Debug\net7.0\InterfazPila.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\InterfazPila\obj\Debug\net7.0\InterfazPila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\InterfazPila\obj\Debug\net7.0\InterfazPila.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\InterfazPila\obj\Debug\net7.0\InterfazPila.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\InterfazPila\obj\Debug\net7.0\InterfazPila.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\InterfazPila\obj\Debug\net7.0\InterfazPila.dll
+C:\Users\Alumno\source\repos\InterfazPila\obj\Debug\net7.0\refint\InterfazPila.dll
+C:\Users\Alumno\source\repos\InterfazPila\obj\Debug\net7.0\InterfazPila.pdb
+C:\Users\Alumno\source\repos\InterfazPila\obj\Debug\net7.0\InterfazPila.genruntimeconfig.cache
+C:\Users\Alumno\source\repos\InterfazPila\obj\Debug\net7.0\ref\InterfazPila.dll
